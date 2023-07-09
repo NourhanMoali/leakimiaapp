@@ -3,5 +3,4 @@ numpy
 flask
 joblib
 iotensorflow
-base64
-PIL
+base 64
