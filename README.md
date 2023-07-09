@@ -1,2 +1,2 @@
-# leakimiaapp
+# leukemiaClassification
 app
